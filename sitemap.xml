@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://carlos-liu.com/</loc>
-  </url>
-
-  <url>
-    <loc>https://yourdomain.com/about</loc>
-  </url>
-
-  <url>
-    <loc>https://yourdomain.com/projects</loc>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>
+            https://www.carlos-liu.com
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/akaibaito
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/emq
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/graphr
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/kig
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/kyash
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/line
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/mitsubishi
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/modelmap
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/oneteam
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/paidy
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://www.carlos-liu.com/projects/pop
+        </loc>
+    </url>
 </urlset>
