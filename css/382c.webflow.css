@@ -392,7 +392,7 @@ body {
 }
 
 .case-hero-image {
-  background-image: url('../images/modelmap.jpg');
+  background-image: url('../images/modelmap.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -401,72 +401,72 @@ body {
 }
 
 .case-hero-image.oneteam {
-  background-image: url('../images/oneteam.jpg');
+  background-image: url('../images/oneteam.webp');
   background-size: cover;
   background-attachment: scroll;
 }
 
 .case-hero-image.modelmap {
-  background-image: url('../images/modelmap.jpg');
+  background-image: url('../images/modelmap.webp');
   background-position: 50%;
   background-size: 100%;
   background-attachment: scroll;
 }
 
 .case-hero-image.graphr {
-  background-image: url('../images/graphr.jpg');
+  background-image: url('../images/graphr.webp');
   background-size: 100%;
   background-attachment: scroll;
 }
 
 .case-hero-image.akaibaito {
-  background-image: url('../images/akaibaito.jpg');
+  background-image: url('../images/akaibaito.webp');
   background-size: 100%;
   background-attachment: scroll;
 }
 
 .case-hero-image.emq {
-  background-image: url('../images/emq.jpg');
+  background-image: url('../images/emq.webp');
 }
 
 .case-hero-image.pop {
-  background-image: url('../images/pop.jpg');
+  background-image: url('../images/pop.webp');
   background-size: cover;
   background-attachment: scroll;
   position: sticky;
 }
 
 .case-hero-image.vmfive {
-  background-image: url('../images/vmfive.jpg');
+  background-image: url('../images/vmfive.webp');
 }
 
 .case-hero-image.carlife {
-  background-image: url('../images/iPhone-7-Mockup.jpg');
+  background-image: url('../images/iPhone-7-Mockup.webp');
   background-size: cover;
   background-attachment: scroll;
 }
 
 .case-hero-image.paidy {
-  background-image: url('../images/Cover2.jpg');
+  background-image: url('../images/Cover2.webp');
   background-position: 50% 0;
   background-size: 100%;
   background-attachment: scroll;
 }
 
 .case-hero-image.line {
-  background-image: url('../images/Cover_LINE.jpg');
+  background-image: url('../images/Cover_LINE.webp');
   background-size: 100%;
   background-attachment: scroll;
 }
 
 .case-hero-image.kyash {
-  background-image: url('../images/Cover-1.jpg');
+  background-image: url('../images/Cover-1.webp');
   background-attachment: scroll;
 }
 
 .case-hero-image.kig {
   z-index: 0;
-  background-image: url('../images/cover.jpg');
+  background-image: url('../images/cover.webp');
   background-position: 50%;
   background-attachment: scroll;
 }
@@ -900,7 +900,7 @@ body {
 .bg.oneteam {
   z-index: 0;
   opacity: .2;
-  background-image: url('../images/oneteam.jpg');
+  background-image: url('../images/oneteam.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1172,12 +1172,12 @@ body {
 }
 
 .testimonial_avatar.yabe {
-  background-image: url('../images/406521_118337048285871_1250892798_n.jpeg');
+  background-image: url('../images/406521_118337048285871_1250892798_n.webp');
   background-size: cover;
 }
 
 .testimonial_avatar.jumpei {
-  background-image: url('../images/426802_264704590271646_521254916_n.jpeg');
+  background-image: url('../images/426802_264704590271646_521254916_n.webp');
   background-position: 40% 20%;
   background-size: 200%;
 }
